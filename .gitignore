@@ -1,0 +1,10 @@
+*.build
+*.settings
+*.classpath
+*.project
+*.properties
+*.prefs
+*.apk
+*.dex
+*.ap_
+*.class
